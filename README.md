@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 10 |
+| 29 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
@@ -24,6 +25,12 @@
 - [strings](#strings) (4)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 106669B | [The First Case](https://codeforces.com/contest/106669/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/106669/B%20-%20The%20First%20Case/solution.cpp) |
 
 ### brute force
 
