@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 12 |
+| 38 | 12 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [games](#games) (3)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (21)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (4)
@@ -103,6 +103,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
