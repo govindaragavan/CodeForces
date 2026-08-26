@@ -18,16 +18,8 @@ cin>>a[i];
 int Xor=0;
 for(int i=0;i<n;i++)
     Xor=Xor^a[i];
- if(n%2==0 && Xor==0){
- cout<<1<<endl;
- continue;}
- else if(n%2!=0){
-    cout<<Xor<<endl;
-    continue;
- }
- else{
- cout<<-1<<endl;
- continue;}
+ if((n%2==0 && Xor==0) || n%2!=0){cout<<Xor<<endl; continue;}
+ else{ cout<<-1<<endl; continue;}
 }
     return 0;
 }
