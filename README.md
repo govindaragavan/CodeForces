@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 12 |
+| 37 | 12 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (10)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [dp](#dp) (1)
 - [games](#games) (3)
 - [greedy](#greedy) (10)
@@ -52,6 +52,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
