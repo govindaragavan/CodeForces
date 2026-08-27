@@ -6,15 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 15 |
+| 47 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [bitmasks](#bitmasks) (1)
+- [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (13)
+- [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [dp](#dp) (1)
 - [games](#games) (3)
@@ -22,10 +23,11 @@
 - [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (13)
-- [math](#math) (24)
+- [math](#math) (25)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (4)
 - [strings](#strings) (5)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -41,6 +43,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
+| 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 
 ### brute force
 
@@ -59,6 +62,12 @@
 | 2164A | [Sequence Game](https://codeforces.com/contest/2164/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/2164/A%20-%20Sequence%20Game/solution.cpp) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/2208/B%20-%20Cyclists/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 
 ### constructive algorithms
 
@@ -146,6 +155,7 @@
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
+| 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
@@ -187,6 +197,12 @@
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2065B | [Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/2065/B%20-%20Skibidus%20and%20Ohio/solution.c) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 
 ### two pointers
 
