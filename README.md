@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 17 |
+| 49 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (1)
@@ -36,6 +36,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 106669B | [The First Case](https://codeforces.com/contest/106669/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/106669/B%20-%20The%20First%20Case/solution.cpp) |
 
 ### bitmasks
