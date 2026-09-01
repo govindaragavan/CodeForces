@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 17 |
+| 50 | 17 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (25)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (4)
@@ -131,6 +131,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.cpp) |
