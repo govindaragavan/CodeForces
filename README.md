@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 17 |
+| 61 | 17 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (13)
+- [brute force](#brute-force) (14)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (9)
 - [dp](#dp) (1)
@@ -22,8 +22,8 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (18)
-- [math](#math) (34)
+- [implementation](#implementation) (19)
+- [math](#math) (35)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (5)
 - [strings](#strings) (5)
@@ -53,6 +53,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.c) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
+| 1355A | [Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1355/A%20-%20Sequence%20with%20Digits/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
@@ -142,6 +143,7 @@
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
+| 1355A | [Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1355/A%20-%20Sequence%20with%20Digits/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
@@ -166,6 +168,7 @@
 | 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
 | 1296A | [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1296/A%20-%20Array%20with%20Odd%20Sum/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
+| 1355A | [Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1355/A%20-%20Sequence%20with%20Digits/solution.cpp) |
 | 1371A | [Magical Sticks](https://codeforces.com/contest/1371/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1371/A%20-%20Magical%20Sticks/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.c) |
 | 1385A | [Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1385/A%20-%20Three%20Pairwise%20Maximums/solution.cpp) |
