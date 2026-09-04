@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/1038/problem/B" target="_blank" rel="noopener noreferrer">1038B — Non-Coprime Partition</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1038B](https://codeforces.com/contest/1038/problem/B) |
+
+## Topics
+`constructive algorithms` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Non-Coprime Partition</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Find out if it is possible to partition the first $$$n$$$ positive integers into two <span class="tex-font-style-bf">non-empty</span> disjoint sets $$$S_1$$$ and $$$S_2$$$ such that:</p><center>$$$\mathrm{gcd}(\mathrm{sum}(S_1), \mathrm{sum}(S_2))  \gt  1$$$ </center><p>Here $$$\mathrm{sum}(S)$$$ denotes the sum of all elements present in set $$$S$$$ and $$$\mathrm{gcd}$$$ means the<a href="https://en.wikipedia.org/wiki/Greatest_common_divisor">greatest common divisor</a>.</p><p>Every integer number from $$$1$$$ to $$$n$$$ should be present in <span class="tex-font-style-bf">exactly one</span> of $$$S_1$$$ or $$$S_2$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of the input contains a single integer $$$n$$$ ($$$1 \le n \le 45\,000$$$)</p></div><div class="output-specification"><div class="section-title">Output</div><p>If such partition doesn't exist, print "No" (quotes for clarity).</p><p>Otherwise, print "Yes" (quotes for clarity), followed by two lines, describing $$$S_1$$$ and $$$S_2$$$ respectively.</p><p>Each set description starts with the set size, followed by the elements of the set in any order. Each set must be non-empty.</p><p>If there are multiple possible partitions — print any of them.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003381426673854713" id="id0026627518798967686" class="input-output-copier">Copy</div></div><pre id="id003381426673854713">1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0015023725650805986" id="id009931562458962425" class="input-output-copier">Copy</div></div><pre id="id0015023725650805986">No</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id004202476001604899" id="id008722914215071373" class="input-output-copier">Copy</div></div><pre id="id004202476001604899">3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008238139100548599" id="id007735710209591737" class="input-output-copier">Copy</div></div><pre id="id008238139100548599">Yes<br>1 2<br>2 1 3 <br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example, there is no way to partition a single number into two non-empty sets, hence the answer is "No".</p><p>In the second example, the sums of the sets are $$$2$$$ and $$$4$$$ respectively. The $$$\mathrm{gcd}(2, 4) = 2  \gt  1$$$, hence that is one of the possible answers.</p></div>
