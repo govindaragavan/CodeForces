@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/630/problem/D" target="_blank" rel="noopener noreferrer">630D — Hexagons!</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 630D](https://codeforces.com/contest/630/problem/D) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">D. Hexagons!</div><div class="time-limit"><div class="property-title">time limit per test</div>0.5 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>After a probationary period in the game development company of IT City Petya was included in a group of the programmers that develops a new turn-based strategy game resembling the well known "Heroes of Might & Magic". A part of the game is turn-based fights of big squadrons of enemies on infinite fields where every cell is in form of a hexagon.</p><p>Some of magic effects are able to affect several field cells at once, cells that are situated not farther than <span class="tex-span"><i>n</i></span> cells away from the cell in which the effect was applied. The distance between cells is the minimum number of cell border crosses on a path from one cell to another.</p><p>It is easy to see that the number of cells affected by a magic effect grows rapidly when <span class="tex-span"><i>n</i></span> increases, so it can adversely affect the game performance. That's why Petya decided to write a program that can, given <span class="tex-span"><i>n</i></span>, determine the number of cells that should be repainted after effect application, so that game designers can balance scale of the effects and the game performance. Help him to do it. Find the number of hexagons situated not farther than <span class="tex-span"><i>n</i></span> cells away from a given cell.</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/2bac36075d45380c9a981c641c5ee453c98c17ef.png" style="max-width: 100.0%;max-height: 100.0%;"> </center></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of the input contains one integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">0 ≤ <i>n</i> ≤ 10<sup class="upper-index">9</sup></span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output one integer — the number of hexagons situated not farther than <span class="tex-span"><i>n</i></span> cells away from a given cell.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0039647483395691197" id="id009579217832519733" class="input-output-copier">Copy</div></div><pre id="id0039647483395691197">2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007909991508730329" id="id00010470810942045605" class="input-output-copier">Copy</div></div><pre id="id007909991508730329">19</pre></div></div></div>
