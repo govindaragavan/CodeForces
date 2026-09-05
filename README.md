@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 17 |
+| 65 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
-- [bitmasks](#bitmasks) (3)
+- [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (14)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (11)
@@ -23,7 +23,7 @@
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (19)
-- [math](#math) (37)
+- [math](#math) (38)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (5)
 - [strings](#strings) (5)
@@ -44,6 +44,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 912B | [New Year's Eve](https://codeforces.com/contest/912/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/912/B%20-%20New%20Year's%20Eve/solution.cpp) |
+| 1594B | [Special Numbers](https://codeforces.com/contest/1594/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1594/B%20-%20Special%20Numbers/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 
@@ -180,6 +181,7 @@
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
+| 1594B | [Special Numbers](https://codeforces.com/contest/1594/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1594/B%20-%20Special%20Numbers/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
