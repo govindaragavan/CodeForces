@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 76 | 18 |
+| 77 | 18 |
 
 ---
 
@@ -17,13 +17,13 @@
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (12)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dp](#dp) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (19)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (20)
+- [implementation](#implementation) (21)
 - [math](#math) (42)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (6)
@@ -100,6 +100,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 
 ### dp
 
@@ -169,6 +170,7 @@
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
