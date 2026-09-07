@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 18 |
+| 79 | 18 |
 
 ---
 
@@ -16,20 +16,20 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (12)
-- [data structures](#data-structures) (2)
+- [constructive algorithms](#constructive-algorithms) (13)
+- [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (19)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (21)
+- [implementation](#implementation) (22)
 - [math](#math) (42)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (6)
 - [strings](#strings) (6)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -82,6 +82,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 264A | [Escape from Stones](https://codeforces.com/contest/264/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/264/A%20-%20Escape%20from%20Stones/solution.cpp) |
 | 912B | [New Year's Eve](https://codeforces.com/contest/912/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/912/B%20-%20New%20Year's%20Eve/solution.cpp) |
 | 1038B | [Non-Coprime Partition](https://codeforces.com/contest/1038/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1038/B%20-%20Non-Coprime%20Partition/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
@@ -99,6 +100,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 264A | [Escape from Stones](https://codeforces.com/contest/264/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/264/A%20-%20Escape%20from%20Stones/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 
@@ -159,6 +161,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
+| 264A | [Escape from Stones](https://codeforces.com/contest/264/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/264/A%20-%20Escape%20from%20Stones/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/govindaragavan/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
@@ -272,6 +275,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 264A | [Escape from Stones](https://codeforces.com/contest/264/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/264/A%20-%20Escape%20from%20Stones/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 
 ---
