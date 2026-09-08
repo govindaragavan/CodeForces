@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 18 |
+| 86 | 18 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (26)
 - [math](#math) (43)
-- [number theory](#number-theory) (8)
+- [number theory](#number-theory) (9)
 - [sortings](#sortings) (7)
 - [strings](#strings) (8)
 - [trees](#trees) (1)
@@ -243,6 +243,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
 | 912B | [New Year's Eve](https://codeforces.com/contest/912/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/912/B%20-%20New%20Year's%20Eve/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
