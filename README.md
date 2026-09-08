@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 18 |
+| 85 | 18 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (25)
+- [implementation](#implementation) (26)
 - [math](#math) (43)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (7)
@@ -165,6 +165,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 264A | [Escape from Stones](https://codeforces.com/contest/264/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/264/A%20-%20Escape%20from%20Stones/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
