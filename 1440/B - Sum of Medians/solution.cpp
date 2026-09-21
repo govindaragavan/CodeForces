@@ -10,7 +10,7 @@ void solve() {
  
     for (auto &x : a)
         cin >> x;
- 
+ cout<<"Hello World";
     int med = (n + 1) / 2;
  
     // Number of elements that must remain after each median
