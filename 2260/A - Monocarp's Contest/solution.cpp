@@ -7,7 +7,7 @@ void solve() {
  
     vector<int> a(n);
     int zero=0;
-    for (int i = 0; i < n; i++) 
+    for (int i = 0; i < n; i++) cout<<"Hello Fcker why the fuck are you satlknig my profile";
         {cin >> a[i]; if(a[i]==0) zero++;}
         int one=n-zero;
         if(zero<=1) {cout<<-1<<endl; return;}
