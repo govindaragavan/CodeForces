@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 100 | 20 |
+| 101 | 20 |
 
 ---
 
@@ -23,12 +23,12 @@
 - [dp](#dp) (5)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (26)
+- [greedy](#greedy) (27)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (30)
 - [math](#math) (47)
 - [number theory](#number-theory) (11)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (9)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (5)
@@ -175,6 +175,7 @@
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
@@ -302,6 +303,7 @@
 | 507A | [Amr and Music](https://codeforces.com/contest/507/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/507/A%20-%20Amr%20and%20Music/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
+| 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
