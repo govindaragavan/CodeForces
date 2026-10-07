@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 107 | 20 |
+| 108 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (21)
@@ -51,6 +51,7 @@
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 | 106669B | [The First Case](https://codeforces.com/contest/106669/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/govindaragavan/CodeForces/blob/HEAD/106669/B%20-%20The%20First%20Case/solution.cpp) |
 
 ### binary search
